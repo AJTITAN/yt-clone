@@ -28,7 +28,7 @@ A simple web application that fetches **YouTube videos** from an API and display
 ## 🚀 Deployment
 The project is deployed and accessible online.
 
-🔗 **Live Demo**: [Click Here](your-deployment-link)  
+🔗 **Live Demo**: [Click Here](https://yt-lister.netlify.app/)  
 
 
 ---
