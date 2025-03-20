@@ -11,7 +11,7 @@ try {
   const response = await fetch(url, options);
   const data = await response.json();
   setTimeout(() => {
-      loadingScreen.classList.add("display");
+    //   loadingScreen.classList.add("display");
       containerDiv.classList.remove("display");
   }, 1000);
   console.log(data);
